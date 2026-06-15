@@ -260,7 +260,6 @@
         <!-- ========== ENCABEZADO ========== -->
         <div class="header">
             <h1>📦 Gestión de Productos</h1>
-            <p>Sistema CRUD - PHP OOP + MySQL + Fetch API + SweetAlert2</p>
         </div>
 
         <!-- ========== FORMULARIO ========== -->
